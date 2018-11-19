@@ -21,3 +21,5 @@ end
 
 - [ZhuiShuPod](https://github.com/lixianshen/ZhuiShuPod)
 功能介绍:追书神器免费换源,去除广告,去除首页多余弹窗
+- [TXVideo](https://github.com/lixianshen/TXVideo)
+功能介绍:腾讯视频去广告，开屏广告，列表广告，播放广告
