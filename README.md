@@ -11,7 +11,7 @@ source 'https://github.com/lixianshen/ReverseSpec.git'  #不可少
 use_frameworks!						#不可少
 
 target 'MonkeyAppDylib' do			#target选动态库
-     pod 'WechatPod'     			#pod的名字
+     pod 'ZhuiShuPod'     			#pod的名字
 end
 ```
 
